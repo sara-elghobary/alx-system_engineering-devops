@@ -1,0 +1,2 @@
+#!/bin/bash
+dc -e "16i${WATER} ${water_base}o ${STIR} ${stir_base}o+10o${result_base}p"
